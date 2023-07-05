@@ -97,7 +97,7 @@ Configure SLA from the Admin panel by selecting Manage > SLA > Add New SLA Plan.
 
 </p>
 <p>
-Configue Help Topics from the Admin panel by selecting Manage > Help Topics > Add New Help Topic. Set requirements. Add Topic.  
+Configure Help Topics from the Admin panel by selecting Manage > Help Topics > Add New Help Topic. Set requirements. Add Topic.  
 </p>
 <br />
 
